@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/driva/static/css/main.073c9b0a.css",
+    "main.js": "/driva/static/js/main.bcccd46f.js",
+    "static/js/787.efa3d7ba.chunk.js": "/driva/static/js/787.efa3d7ba.chunk.js",
+    "static/media/logo.svg": "/driva/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/driva/index.html",
+    "main.073c9b0a.css.map": "/driva/static/css/main.073c9b0a.css.map",
+    "main.bcccd46f.js.map": "/driva/static/js/main.bcccd46f.js.map",
+    "787.efa3d7ba.chunk.js.map": "/driva/static/js/787.efa3d7ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bcccd46f.js"
+  ]
+}
